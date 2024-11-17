@@ -1,5 +1,5 @@
 # 📊 Python-Sales-Analysis
-This repository contains analysis of sales data to uncover trends and derive actionable insights. It includes data cleaning, transformations and visualization to highlight key performance indicators, such as top-performing categories, sub-categories, customer segments, high-sales regions, cities and the effectiveness of various shipping modes.
+This project contains analysis of sales data to uncover trends and derive actionable insights. It includes data cleaning, transformations, analysis and visualization to highlight key performance indicators such as top-performing categories, customer segments, high-sales regions, shipping mode effectiveness and monthly sales trends.
 
 ## Project Highlights
 - **Data Loading and Cleaning**: Handled missing values, corrected data types, and prepared data for analysis.
