@@ -2,7 +2,7 @@
 This project contains analysis of sales data to uncover trends and derive actionable insights. It includes data cleaning, transformations, analysis and visualization to highlight key performance indicators such as top-performing categories, customer segments, high-sales regions, shipping mode effectiveness and monthly sales trends.
 
 ## Project Highlights
-- **Data Loading and Cleaning**: Handled missing values, corrected data types, and prepared data for analysis.
+- **Data Loading and Cleaning**: Checked for duplicates, handled missing values, corrected data types and prepared the data for analysis.
 - **Analysis**:
   - Identified top-performing product categories and sub-categories.
   - Highlighted sales performance by Customer Segment, Region & Top 10 Cities
